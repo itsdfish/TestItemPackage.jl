@@ -1,10 +1,10 @@
 name = "TestItemPackage"
 uuid = "56fff9a7-7791-4d83-9058-2a9678931572"
-authors = ["itsdfish <itsdfish@gmail.com> and contributors"]
+authors = ["itsdfish"]
 version = "1.0.0-DEV"
 
 [compat]
-julia = "1.6.7"
+julia = "1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
