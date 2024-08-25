@@ -1,5 +1,7 @@
 module TestItemPackage
 
-# Write your package code here.
+export my_func 
+
+my_func() = 1
 
 end

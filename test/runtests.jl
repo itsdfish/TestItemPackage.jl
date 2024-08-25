@@ -1,6 +1,6 @@
-using TestItemPackage
-using Test
+using TestItems 
+using TestItemRunner
 
-@testset "TestItemPackage.jl" begin
-    # Write your tests here.
-end
+@run_package_tests
+
+
