@@ -1,7 +1,9 @@
 module TestItemPackage
 
-export my_func 
+export my_func
 
-my_func() = 1
+function my_func()
+    return 1
+end
 
 end
